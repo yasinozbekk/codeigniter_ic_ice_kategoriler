@@ -1,0 +1,2 @@
+# codeigniter_ic_ice_kategoriler
+ codeigniter_ic_ice_kategori
